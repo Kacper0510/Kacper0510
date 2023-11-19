@@ -7,7 +7,7 @@
 
 <hr>
 
-###
+<h3 align="center">Programming languages</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust"  />
@@ -21,7 +21,11 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash"  />
-  <img width="12" />
+</div>
+
+<h3 align="center">Technologies</h3>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code"  />
