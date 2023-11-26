@@ -45,4 +45,8 @@
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Heroku"  />
 </div>
 
+<hr>
+
+[My GitHub Pages site](https://kacper0510.github.io/) - currently a mirror of this README
+
 ###
