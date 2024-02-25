@@ -45,12 +45,4 @@
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Heroku"  />
 </div>
 
-<hr>
-
-### Narzędzia informatyczne (university assignments)
-
-[My GitHub Pages site](https://kacper0510.github.io/) - currently a mirror of this README
-
-[Example of a fork](https://github.com/Kacper0510/MM-NEAT) - based on [this paper](https://paperswithcode.com/paper/evolving-flying-machines-in-minecraft-using)
-
 ###
